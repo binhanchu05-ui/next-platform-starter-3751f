@@ -1,5 +1,5 @@
 [build]
-publish = ".next"
+publish = "out"
 command = "npx next build"
 
 [[plugins]]
